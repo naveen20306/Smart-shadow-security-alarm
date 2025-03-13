@@ -87,7 +87,12 @@ The hardware implementation involves assembling all components on a **Perf board
    - The **Blynk cloud platform** sends notifications to a **registered mobile device** and can trigger an **email alert**.
    - The buzzer and LED automatically turn OFF when no shadow is detected.
 
-7. **Final Testing & Debugging**:
+7. **Final Testing & Debugging**
+
+8. **Output Documentation**:
+   - The output pictures demonstrating the shadow detection and alert system have been included in the **documentation file**.
+   - These images showcase different scenarios, such as normal lighting conditions, shadow detection, buzzer activation, and notification alerts.
+   - Refer to the documentation for a visual representation of the system's working.:
    - Power the circuit and verify the **response to shadows**.
    - Check if the **buzzer sounds** and **LED glows** when a shadow is detected.
    - Ensure that the **ESP8266 sends notifications and emails** upon detection.
@@ -99,5 +104,5 @@ This structured approach ensures **stable, real-time shadow detection** with eff
 This project is intended for **private use only**. Redistribution, modification, or public sharing of this repository is **prohibited**.
 
 ## Contact
-For any inquiries, please contact the author **Naveen Kumar B (naveenau2023@gmail.com)**.
+For any inquiries, please contact **Naveen Kumar B, Naveen Yogaraj M, or Rithvik S P**.
 
