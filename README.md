@@ -104,5 +104,5 @@ This structured approach ensures **stable, real-time shadow detection** with eff
 This project is intended for **private use only**. Redistribution, modification, or public sharing of this repository is **prohibited**.
 
 ## Contact
-For any inquiries, please contact **Naveen Kumar B, Naveen Yogaraj M, or Rithvik S P**.
+For any inquiries, please contact **Naveen Kumar B(naveenau2023@gmail.com**.
 
